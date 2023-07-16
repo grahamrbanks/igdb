@@ -1,6 +1,6 @@
 <?php
 
-    require_once "class.igdb.php";
+    require_once "src/class.igdb.php";
 
     $builder = new IGDBQueryBuilder();
 
