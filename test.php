@@ -10,6 +10,8 @@
         // Something went wrong, we have an error
         echo $e->getMessage();
     }
-
+	{
+		echo $result
+	}
 ?>
 
